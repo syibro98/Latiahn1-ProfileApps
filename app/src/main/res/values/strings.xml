@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Profile Apps</string>
+    <string name="nama">Nama : Bagus Syibro Malisi</string>
+    <string name="nim">Nim : 10118052</string>
+    <string name="kelas">Kelas : IF-2</string>
+    <string name="jenis_kelamin">Jenis Kelamin : Laki - Laki</string>
+    <string name="ttl">TTL : Indramayu, 28 Mei 2000 </string>
+    <string name="alm_rmh">Alamat : Ds. Singaraja Blok Pasar RT/RT 06/02</string>
+    <string name="GD">O</string>
+    <string name="makanan">Simpring, Sate</string>
+    <string name="minuman">Susu, Teh</string>
+    <string name="hobi">Hobi : Bermain Game</string>
+    <string name="lagu_favorit">Lagu Fav : Blossom Flower, Burning(Rothy)</string>
+    <string name="film_favorit">Film Fav : Descendants Of The Sun</string>
+    <string name="pekerjaan">Pekerjaan yang Diinginkan : Web Developer</string>
+</resources>
